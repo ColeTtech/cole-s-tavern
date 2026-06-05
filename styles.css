@@ -1,0 +1,24 @@
+body{
+    color: aqua;
+    background-color: #123524 ;
+    font-family: "Coming Soon", cursive;
+}
+
+header{
+    background-color: #003153;
+
+}
+
+footer{
+    background-color:   #003153;
+}
+
+section{
+    background-color: rgb(53,18,35);
+}
+
+nav{
+    background-color: teal;
+}
+
+/* definetly will be messing around with this later. */
