@@ -2,6 +2,16 @@ body{
     color: aqua;
     background-color: #123524 ;
     font-family: "Coming Soon", cursive;
+    text-align: center;
+    list-style-position: inside;
+    line-height: 126%;
+}
+
+ul li{
+    text-decoration: underline;
+    font-weight: bolder;
+    font-style: oblique;
+
 }
 
 header{
@@ -9,8 +19,14 @@ header{
 
 }
 
+body span{
+    color: red;
+    font-weight: 900;
+    Font-
+}
+
 footer{
-    background-color:   #003153;
+    background-color: #003153  ;
 }
 
 section{
@@ -19,6 +35,15 @@ section{
 
 nav{
     background-color: teal;
+}
+
+a:link{
+    color:violet
+    /* change color */
+}
+
+a:visited{
+    color: orange
 }
 
 /* definetly will be messing around with this later. */
