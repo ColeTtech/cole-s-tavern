@@ -1,0 +1,32 @@
+*{
+    margin: 10%;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.section-1{
+    background-color: purple;
+    color: aqua;
+    height: 250;
+    width: 50%;
+}
+
+.section-b{
+    background-color: beige;
+    color: rgb(184, 56, 77);
+    padding: 5%;
+    border: 3px solid green;
+}
+
+.greg{
+    background-color: black;
+    color: white;
+    border-top:50px;
+    padding-bottom: 2%;
+}
+
+#steeve{
+    text-decoration: line-through solid purple;
+}
