@@ -43,6 +43,7 @@ body{
     color: aqua;
     /* background-color: #123524 ; */
     background-image:  url("./images/IMG_E2698.JPG");
+    /* taken by myself in some mountain resort */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 50%;
@@ -55,17 +56,27 @@ body span{
 
 }
 
+p{
+    text-indent: 50px;
+}
+
+ol li{
+    list-style-position: inside;
+    list-style-position: 50;
+}
+
 ul li{
     text-decoration: underline;
     font-weight: bolder;
     font-style: oblique;
     border: color 4px violet;
+    list-style-position: inside;
 }
 
 figure figcaption{
     background-color: #123524 ;
-    max-width: 20%;
     margin: 0 auto;
+    width: fit-content;
 }
 
 section{
@@ -102,5 +113,10 @@ a:visited{
     color: orange
 }
 
+.cole-links{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
 /* definetly will be messing around with this later. */
